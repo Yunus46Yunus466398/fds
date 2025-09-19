@@ -1,0 +1,74 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "name": "Uzbekistan",
+            "capital": "Tashkent",
+            "img": "https://media.istockphoto.com/id/967650550/ru/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F/%D1%84%D0%BB%D0%B0%D0%B3-%D1%83%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg?s=612x612&w=0&k=20&c=je2Jl2vAgRqySxdGJVCv9I3SzZ_bTJ8ZIrKmmjgT1Ls=",
+            "evro" : false
+        },
+        {
+            "id": 2,
+            "name": "Kazakhstan",
+            "capital": "Astana",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHB_r_QpuTCoJCXc85EO_jAxnlZitFeZVdtQ&s",
+            "evro": true
+        },
+        {
+            "id": 3,
+            "name": "USA",
+            "capital": "Washington D.C.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/960px-Flag_of_the_United_States.svg.png",
+            "evro": true
+        },
+         {
+            "id": 4,
+            "name": "Japan",
+            "capital": "Tokyo",
+            "img": "https://st.depositphotos.com/1022597/3292/i/450/depositphotos_32924593-stock-photo-flag-of-japan-vignetted.jpg",
+            "evro": false
+        },
+         {
+            "id": 5,
+            "name": "France",
+            "capital": "Paris",
+            "img": "https://img.freepik.com/free-vector/illustration-france-flag_53876-27099.jpg?semt=ais_incoming&w=740&q=80",
+            "evro": true
+        },
+         {
+            "id": 6,
+            "name": "Tajikistan",
+            "capital": "Dushanbe",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+            "evro": false
+        },
+         {
+            "id": 7,
+            "name": "Italy",
+            "capital": "Rim",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/250px-Flag_of_Italy.svg.png",
+            "evro": true
+        },
+  {
+    "id": 8,
+    "name": "Germany",
+    "capital": "Berlin",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+    "evro": true
+  },
+  {
+    "id": 10,
+    "name": "Spain",
+    "capital": "Madrid",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+    "evro": true
+  },
+  {
+    "id": 11,
+    "name": "United Kingdom",
+    "capital": "London",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+    "evro": false
+  }
+    ]
+}
